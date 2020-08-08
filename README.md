@@ -1,5 +1,5 @@
 
-<h3>Single page Application (SPA) using core Js And Core PHP </h3>
+<h3>Todo Single page Application (SPA) using Laravel RestApi And Vue Js </h3>
 <p align="center">
 <h4>Completed Task Page</h4>
 <img src="./screenshots/completedTask.png" width="100%" title ="screenshot">
