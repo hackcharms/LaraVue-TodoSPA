@@ -1,3 +1,29 @@
+
+<h3>Single page Application (SPA) using core Js And Core PHP </h3>
+<p align="center">
+<h4>Completed Task Page</h4>
+<img src="./screenshots/completedTask.png" width="100%" title ="screenshot">
+</p>
+<p align="center">
+<h4>Double click to Edit</h4>
+<img src="./screenshots/dbclickToEdit.png" width="100%" title ="screenshot">
+</p>
+
+<p align="center">
+<h4>Incomplete Task</h4>
+<img src="./screenshots/incompleteTask.png" width="100%" title ="screenshot">
+</p>
+<p align="center">
+<h4>Task Deletion</h4>
+<img src="./screenshots/Task Deleted.png" width="100%" title ="screenshot">
+
+</p>
+<p align="center">
+<h4>Cool Loader</h4>
+<img src="./screenshots/loader.png" width="100%" title ="screenshot">
+</p>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
