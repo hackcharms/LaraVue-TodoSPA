@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h3> Completed Task </h3>
         <b-alert dismissible v-if="alertMessage" show :variant="alertVariant">{{alertMessage}}</b-alert>
             <b-list-group-item v-for="todo in todos" :key="todo.id" class="d-flex">
                     <h3>

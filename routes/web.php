@@ -21,7 +21,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::any('/home/{any}',function(){
     return view('home');
-});
+})->middleware('auth');
 // Route::any('/{any}',function(){
 //     return view('home');
 // });
